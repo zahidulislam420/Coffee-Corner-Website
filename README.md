@@ -6,3 +6,4 @@ Operational transparency is emphasized through a structured Opening Hours table,
 
 This project reflects attention to user experience, design clarity, and technical implementation, making it a strong showcase of frontend development skills.
 Website live demo: https://zahidul-dev.github.io/Coffee-Corner-Website/
+repository: https://github.com/zahidul-dev/Coffee-Corner-Website.git
