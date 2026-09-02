@@ -1,21 +1,55 @@
-"Responsive CoffeeCorner website built with HTML5 & CSS3 — featuring hero banner, story section, popular menu cards, opening hours table, and 24/7 service highlights.
+# CoffeeCorner Website ☕  
 
-1.Modern coffee shop landing page showcasing story, menu, opening hours, and 24/7 availability. Designed with HTML5, CSS3, Flexbox & Grid.
+A modern and responsive coffee shop website built with **HTML5 & CSS3**.  
+This project highlights the brand story, menu, opening hours, and 24/7 service availability in a clean and professional layout.  
 
-2.Clean and professional CoffeeCorner website with hero section, about story, menu highlights, opening hours table, and footer.
+🔗 **Live Demo:** [CoffeeCorner Website](https://zahidul-dev.github.io/Coffee-Corner-Website/)  
+📂 **Repository:** [GitHub Repo](https://github.com/zahidul-dev/Coffee-Corner-Website.git)  
 
-3.Coffee shop portfolio site built using HTML & CSS — includes hero, story, menu cards, opening hours, and 24/7 service badge.
+---
+
+## ✨ Features
+1. **Hero Banner** → Bold header with tagline and call-to-action button  
+2. **Our Story Section** → Narrative + imagery highlighting authenticity and brand heritage  
+3. **Popular Menu Cards** → Responsive grid showcasing product cards with visuals, descriptions, and pricing  
+4. **Opening Hours Table** → Structured schedule for customer transparency  
+5. **24/7 Service Highlights** → Badge and message reinforcing reliability  
+6. **Footer Section** → Consistent layout with supporting visuals  
+
+---
+
+## 📂 Project Structure
+project-root/
+│── index.html        # Main HTML file
+│── style.css         # Stylesheet
+│── /assets           # Image assets
+│   ├── our-story.avif
+│   ├── cup.png
+│   ├── footer-img.avif
+│   └── logo.png
 
 
+---
+
+## 🛠️ Technologies Used
+- **HTML5** → Semantic structure  
+- **CSS3** → Styling, layout, responsiveness  
+- **Flexbox & CSS Grid** → Layout management  
+- **Custom Buttons & Cards** → Interactive design  
+- **Positioning** → For highlights and badges  
+
+---
+
+## 🎨 Design Overview
+The CoffeeCorner website delivers a **modern, customer‑centric design** blending storytelling with functionality:  
+- **Navigation Bar** → Clean and intuitive, with Home, About, and Contact links  
+- **Hero Header** → Striking visuals and clear call‑to‑action button  
+- **Our Story Section** → Combines imagery with narrative to highlight brand heritage  
+- **Popular Picks Menu** → Responsive grid of product cards for quick engagement  
+- **Opening Hours Table** → Transparent schedule for customers  
+- **24/7 Badge** → Reinforces reliability and accessibility  
+- **Footer** → Consistent design maintaining brand identity  
+
+---
 
 
-
-The CoffeeCorner website delivers a modern, customer‑centric design that blends storytelling with functionality. The navigation bar is clean and intuitive, ensuring easy access to core sections like Home, About, and Contact. A visually striking hero header introduces the brand with bold messaging and a clear call‑to‑action button.
-
-The “Our Story” section combines imagery with narrative, highlighting authenticity and brand heritage. The “Popular Picks” menu uses a responsive grid of product cards, each featuring visuals, descriptions, and pricing for quick customer engagement.
-
-Operational transparency is emphasized through a structured Opening Hours table, complemented by a highlighted message and a 24/7 Open badge to reinforce reliability. The footer and supporting visuals maintain consistency, while the overall layout demonstrates strong use of semantic HTML, Flexbox, CSS Grid, and positioning for a professional, responsive experience.
-
-This project reflects attention to user experience, design clarity, and technical implementation, making it a strong showcase of frontend development skills.
-Website live demo: https://zahidul-dev.github.io/Coffee-Corner-Website/
-repository: https://github.com/zahidul-dev/Coffee-Corner-Website.git
