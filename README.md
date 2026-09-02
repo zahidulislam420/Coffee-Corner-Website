@@ -1,3 +1,15 @@
+"Responsive CoffeeCorner website built with HTML5 & CSS3 — featuring hero banner, story section, popular menu cards, opening hours table, and 24/7 service highlights.
+
+1.Modern coffee shop landing page showcasing story, menu, opening hours, and 24/7 availability. Designed with HTML5, CSS3, Flexbox & Grid.
+
+2.Clean and professional CoffeeCorner website with hero section, about story, menu highlights, opening hours table, and footer.
+
+3.Coffee shop portfolio site built using HTML & CSS — includes hero, story, menu cards, opening hours, and 24/7 service badge.
+
+
+
+
+
 The CoffeeCorner website delivers a modern, customer‑centric design that blends storytelling with functionality. The navigation bar is clean and intuitive, ensuring easy access to core sections like Home, About, and Contact. A visually striking hero header introduces the brand with bold messaging and a clear call‑to‑action button.
 
 The “Our Story” section combines imagery with narrative, highlighting authenticity and brand heritage. The “Popular Picks” menu uses a responsive grid of product cards, each featuring visuals, descriptions, and pricing for quick customer engagement.
