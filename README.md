@@ -5,3 +5,4 @@ The “Our Story” section combines imagery with narrative, highlighting authen
 Operational transparency is emphasized through a structured Opening Hours table, complemented by a highlighted message and a 24/7 Open badge to reinforce reliability. The footer and supporting visuals maintain consistency, while the overall layout demonstrates strong use of semantic HTML, Flexbox, CSS Grid, and positioning for a professional, responsive experience.
 
 This project reflects attention to user experience, design clarity, and technical implementation, making it a strong showcase of frontend development skills.
+Website live demo: https://zahidul-dev.github.io/Coffee-Corner-Website/
