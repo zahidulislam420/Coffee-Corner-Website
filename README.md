@@ -3,9 +3,6 @@
 A modern and responsive coffee shop website built with **HTML5 & CSS3**.  
 This project highlights the brand story, menu, opening hours, and 24/7 service availability in a clean and professional layout.  
 
-🔗 **Live Demo:** [CoffeeCorner Website](https://zahidul-dev.github.io/Coffee-Corner-Website/)  
-📂 **Repository:** [GitHub Repo](https://github.com/zahidul-dev/Coffee-Corner-Website.git)  
-
 ---
 
 ## ✨ Features
